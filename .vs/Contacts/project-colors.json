@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "adbc6726-3b78-4639-ab38-03c53a79b302": {
+      "ProjectGuid": "adbc6726-3b78-4639-ab38-03c53a79b302",
+      "DisplayName": "Contacts",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

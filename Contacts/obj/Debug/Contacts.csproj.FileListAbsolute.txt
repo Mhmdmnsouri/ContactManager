@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\user\Desktop\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\user\Desktop\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.frmAddOrEdit.resources
+C:\Users\user\Desktop\Contacts\Contacts\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Contacts\Contacts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Contacts\Contacts\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Contacts\Contacts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Contacts\Contacts\obj\Debug\Contacts.csproj.CopyComplete
